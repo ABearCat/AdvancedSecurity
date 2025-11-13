@@ -1,4 +1,5 @@
 name: "Advanced Security"
+description: 'Scans repo for vulnerabilities with CodeQL'
 
 on:
   push:

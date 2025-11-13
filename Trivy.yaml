@@ -1,5 +1,5 @@
 name: "Trivy Advanced"
-description: 'Scans container images for vulnerabilities with Trivy'
+description: 'Scans repo for vulnerabilities with Trivy'
 
 on:
   push:
