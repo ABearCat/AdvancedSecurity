@@ -3,7 +3,7 @@ description: 'Scans repo for vulnerabilities with CodeQL'
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "develop" ]
   schedule:
     - cron: "0 5 * * 2-6"
 
