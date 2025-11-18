@@ -1,7 +1,7 @@
 # Basic `dependabot.yml` file with
 # minimum configuration for three package managers
 
-version: 2
+version: 1
 updates:
   ## Enable version updates for pip
   #- package-ecosystem: "pip"
